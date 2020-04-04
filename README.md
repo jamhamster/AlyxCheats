@@ -41,8 +41,9 @@ Steam\steamapps\common\Half-Life Alyx
 Navigate to the cfg folder:
 Steam\steamapps\common\Half-Life Alyx\game\hlvr\cfg
 
-Copy jam.cfg to 
+extract the Jam.zip file to
 Steam\steamapps\common\Half-Life Alyx\game\hlvr\cfg
+
 To activate the cheats on a one time only basis, when running the game, press ` on the keyboard to bring up the Console and type:
 Exec Jam.cfg
 This will activate the options described above
