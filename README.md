@@ -70,18 +70,17 @@ This will activate the options described above.
 
 
 To make this permanent, edit the skill_manifest.cfg and add this line to the bottom of the text
-exec Jam.cfg
+exec Jam.cfg, the file should look like this
 
-This will change the file contents from:
+
 exec skill.cfg
+
 exec skill_episodic.cfg
+
 exec skill_hlvr.cfg
 
-to
-exec skill.cfg
-exec skill_episodic.cfg
-exec skill_hlvr.cfg
 exec Jam.cfg
+
 
 This will enable the options permanently, to undo this, remove the exec Jam.cfg line from the bottom.
 
