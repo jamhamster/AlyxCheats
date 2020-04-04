@@ -27,10 +27,15 @@ JOY4	Gives all weapons
 JOY5	Upgrades all weapons to max. 
 
 
+
 Features especially for Jeff who scares the bejesus out of me:
+
 Coughing turned off
+
 Lower sniff time
+
 Jeff is less aggressive
+
 JOY2 distracts Jeff
 
 
