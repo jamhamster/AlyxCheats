@@ -6,15 +6,10 @@ This config file eases the experience of Half-Life: Alyx. Please be aware that t
 This cfg file has the following features:
 
 God Mode
-
 Infinite Ammo
-
 One Hit Kill
-
 Increased rate of fire
-
 Makes the puzzles easy and shows the solution
-
 increases the multitool scan range to save on bending and stretching.
 
 Bindable cheat keys, bound to the Joypad buttons are as below but these can be edited in the CFG file:
